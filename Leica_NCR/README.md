@@ -5,10 +5,6 @@ Leica_NCR is a plugin for imageJ (FIJI) that processes a series of Leica image f
 
 AUTHOR:
 Dan Sweeney 
-PhD Candidate
-Virginia Tech BEAM 
-BEMS Lab (Spring 2015)
-
 =========================================================================================
 
 NECESSARY FILES:
