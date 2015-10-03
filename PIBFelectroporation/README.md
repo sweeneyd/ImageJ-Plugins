@@ -21,12 +21,12 @@ For MacOS (OSX):
 
 2. In the ‘Applications’ directory, right-click on Fiji.app and click ‘Show Package Contents…
 
-3. Navigate into the ‘plugins’ directory and paste the ‘Leica_NCR’ folder into it. The ‘Leica_NCR’ folder should contain 2 files: 
-	- Leica_NCR.java
-	- Leica_NCR.py
+3. Navigate into the ‘plugins’ directory and paste the ‘PIBFelectroporation’ folder into it. The ‘PIBFelectroporation’ folder should contain 2 files: 
+	- PIBFelectroporation.java
+	- PIBFelectroporation.py
 
 4. Open the Fiji application and under the ‘Plugins’ dropdown menu, click ‘Compile and Run…’
 
-5. Navigate to ‘plugins’—>’Leica_NCR’ and highlight ‘Leica_NCR.java’ and click ‘Open’
+5. Navigate to ‘plugins’—>’PIBFelectroporation’ and highlight ‘PIBFelectroporation.java’ and click ‘Open’
 
-6. A new file should be created called ‘Leica_NCR.class’ and the plugin should now be able to be run from the ‘Plugins’ dropdown menu.
+6. A new file should be created called ‘PIBFelectroporation.class’ and the plugin should now be able to be run from the ‘Plugins’ dropdown menu.
