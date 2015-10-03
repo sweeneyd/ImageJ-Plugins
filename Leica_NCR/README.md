@@ -3,8 +3,7 @@
 ABOUT:
 Leica_NCR is a plugin for imageJ (FIJI) that processes a series of Leica image files contained within a directory to estimate the nucleus-to-cytoplasm ration (NCR). Cell images in each channel are first binned by similar filename (Imagexxx_ch00.tif, Imagexxx_ch01.tif, Imagexxx_ch02.tif) and within each group, binary thresholds are calculated for each image and the area of the binary region of interest is calculated. The square-root of this area is then used to estimate the effective radius of binary region. This plugin is meant for batch-processing and will produce a .csv file summarizing the results (‘CellData.csv’)in a new directory called ‘processed’ within the target directory as well as binary overlays of the nucleus and cytoplasm bounding areas calculated by for each cell.
 
-AUTHOR:
-Dan Sweeney 
+AUTHOR: Dan Sweeney 
 =========================================================================================
 
 NECESSARY FILES:
